@@ -114,9 +114,9 @@ m.reply(`╭━━━━[ 𝙃𝘼 𝙋𝙀𝙍𝘿𝙄𝘿𝙊! 🤡 ]━━⬣
 }
 global.db.data.users[m.sender].wait = new Date * 1
 }}
-handler.help = ['suerte']
+handler.help = ['lanzar']
 handler.tags = ['games']
-handler.command = /^(suerte)$/i
+handler.command = /^(lanzar)$/i
 export default handler
 
 function pickRandom(list) {
