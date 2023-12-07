@@ -4,8 +4,6 @@
 <a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=MIKUBOT++%F0%9F%90%88;Gracias+por+visitar+el+repositorio+de+MIKUBOT.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
-<p align="center">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="MIKUBOT
 
 <p align="center">
 <a href="#"><img title="MIKUBOT" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
@@ -37,7 +35,7 @@
 </div>
 
 ### Cuentas Oficiales:
-> Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de GataBot. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestra comunidad ahora mismo!
+> Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de MIKUBOT. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestra comunidad ahora mismo!
 
 <a href="https://www.atom.bio/_n4mecit4_cb/">
 <img src="https://img.shields.io/badge/n4mecit4_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
